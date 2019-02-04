@@ -2,7 +2,6 @@ build_ext_module
 real_distutils
 __spec__
 __revision__
-archive_util
 opcode
 spec
 __package__
@@ -25,11 +24,12 @@ old_get_config_vars
 __builtins__
 warnings
 old_find_config_files
-file_util
+log
+archive_util
 build_ext
 sys
 __name__
-log
+file_util
 dirname
 sysconfig_get_python_inc
 __cached__
