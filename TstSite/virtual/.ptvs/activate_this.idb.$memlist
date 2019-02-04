@@ -1,0 +1,17 @@
+sys
+new
+IS_WIN
+os
+__builtins__
+__file__
+__package__
+__cached__
+site_packages
+site
+base
+__name__
+IS_JYTHON
+IS_PYPY
+bin_dir
+prev
+__spec__
